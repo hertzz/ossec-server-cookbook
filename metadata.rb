@@ -1,0 +1,7 @@
+name             'ossec-server'
+maintainer       'base2Services'
+maintainer_email 'itsupport@base2services.com'
+license          'apachev2'
+description      'Configures Trend Micro OSSEC HIDS'
+long_description 'Configures Trend Micro OSSEC HIDS'
+version          '0.0.1'
